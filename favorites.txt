@@ -1,3 +1,9 @@
+*** FOOD ***
 Steak
 Pasta
 Falafel
+
+***MOVIES***
+Interstellar
+Troy
+X-mens
